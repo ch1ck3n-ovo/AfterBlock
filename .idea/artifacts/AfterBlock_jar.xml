@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="AfterBlock:jar">
-    <output-path>$PROJECT_DIR$/../../1.8.9 Plugin Test/Spigot/plugins</output-path>
-    <root id="archive" name="AfterBlock.jar">
-      <element id="module-output" name="AfterBlock" />
-    </root>
-  </artifact>
-</component>
