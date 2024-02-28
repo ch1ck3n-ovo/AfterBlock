@@ -1,5 +1,0 @@
-block: "WOOL"
-block_alive_tick: 60
-block_drop_item: true
-item_alive_tick: 20
-item_can_pickup: false
