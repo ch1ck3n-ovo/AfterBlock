@@ -1,3 +1,3 @@
 # AfterBlock  
 
-### By CH1CK3N
+**A plugin that can remove blocks placed by players after a certain period of time.**  
